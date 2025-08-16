@@ -6,9 +6,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 //Teste Augusto
 
-int main() {
-
-    
+  
 int main() {
 
     char nome1[10], nome2[10] 
